@@ -1,8 +1,23 @@
 # FpsStrategyPattern
-How to implement strategy pattern in kotlin with a long example.
+How to implement strategy pattern in kotlin.
 
-Require: Java JDK and kotlinc compiler.
+## Getting Started
 
-Compile with: kotlinc *.kt -include-runtime -d fps.jar
+`git clone https://github.com/Overflow404/FpsStrategyPattern`
 
-Execute with: java -jar fps.jar
+## Require
+Java JDK and kotlinc compiler.
+
+## Compile
+kotlinc *.kt -include-runtime -d fps.jar
+
+## Execute
+java -jar fps.jar
+
+## Built With
+
+* [Kotlin](https://kotlinlang.org/) - Language
+
+## Authors
+
+* **Overflow404** 
